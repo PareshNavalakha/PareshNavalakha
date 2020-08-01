@@ -8,4 +8,6 @@
 - 💬 Ask me about Java backends, Performance optimizations
 - 😄 Pronouns: he / him
 
-![Coding](images/coder.gif)
+
+
+![Coding](https://raw.githubusercontent.com/PareshNavalakha/PareshNavalakha/master/images/coder.gif "Coding")
